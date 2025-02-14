@@ -1,5 +1,7 @@
-
 .venv/
 
 
 downloads/
+*.mp4
+*.webm
+*.mkv
